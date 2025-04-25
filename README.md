@@ -1,7 +1,6 @@
 # 🤖 Python + Machine Learning Bootcamp Project (ShapeAI)
 
-This project was completed during a **7-day Machine Learning Bootcamp** conducted by [ShapeAI](https://www.shapeai.tech/). It marks one of my earliest steps into the world of **Python programming** and **Machine Learning**, where I built a basic yet insightful ML model from scratch.
-
+This project was completed during a **7-day Machine Learning Bootcamp** conducted by DevTown organization. 
 
 ## 📚 What This Project Covers
 
